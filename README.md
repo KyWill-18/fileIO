@@ -1,6 +1,6 @@
 # fileIO
-
-## <ins>Starting Data -> "data.csv"</ins>
+```
+## <ins>Starting Data</ins> -> "data.csv"
 **1, 2, this
 3, 3, is
 8, 1, a
