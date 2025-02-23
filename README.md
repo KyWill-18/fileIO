@@ -27,15 +27,15 @@ this  this  this
 <sstream>
 
 inFile.open("data.csv);
-     - open & read "data.csv" file
+(open & read "data.csv" file)
 
-*Break the data into variables
+Break the data into variables
 
-*Add the ints together
-     - "num1" + "num2" = "sum"
+Add the ints together
+ ("num1" + "num2" = "sum")
 
-*Print the string
-     -String will be based on the "sum" of that string
+Print the string
+(amount of times printed will be based on the "sum" of that string)
 
 inFile.close();
 return 0;
